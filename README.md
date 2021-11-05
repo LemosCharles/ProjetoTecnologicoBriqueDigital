@@ -1,9 +1,9 @@
-O Projeto
-
+# O projeto
+ 
 O presente Projeto Tecnológico tem como objetivo criar uma plataforma web que venha a facilitar a solidariedade mútua entre as pessoas, possibilitando a efetivação de uma negociação, seja ela de relação serviço-serviço, serviço-produto ou produto-produto sem a necessidade de solicitar pagamento com moeda corrente, seja de tipo físico ou digital, visto que durante o período de pandemia como pessoas conhecidas-se com menor poder aquisitivo.
 Presenciamos tempos difíceis. A pandemia originada pelo Coronavírus atingiu todos os níveis econômicos da sociedade em todo o mundo, principalmente os mais humildes causando muita dor e dificuldade em núcleos familiares com a perda de entes queridos, empregos, negócios e estudo. Olhando para esse cenário nasce a motivação de desenvolver o “Brique Digital”.
 
-Como funciona?
+# Como funciona para executar o projeto?
 
 Para conseguir executar este projeto, siga as instruções:
 
